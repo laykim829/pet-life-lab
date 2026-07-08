@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/</loc>
-          <changefreq>daily</changefreq>
-          <priority>1.0</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/about.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.5</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/about.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/privacy.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.3</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/privacy.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/posts/dog-allergy-food-guide.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.8</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/posts/dog-allergy-food-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/posts/cat-scratcher-guide.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.8</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/posts/cat-scratcher-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/posts/dog-harness-leash-guide.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.8</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/posts/dog-harness-leash-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/posts/cat-auto-feeder-guide.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.8</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/posts/cat-auto-feeder-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-          <loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-summer-heatstroke-cooling-guide.html</loc>
-          <changefreq>monthly</changefreq>
-          <priority>0.8</priority>
+        <loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-summer-heatstroke-cooling-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-dental-care-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>
