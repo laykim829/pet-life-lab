@@ -1,72 +1,79 @@
 [
-      {
-              "title": "강아지·고양이 치석 관리 완벽 가이드 (양치질부터 덴탈껌까지)",
-              "category": "구강 케어",
-              "summary": "반려동물 치석과 잇몸 질환을 예방하는 양치질 습관과 덴탈껌·구강 스프레이 고르는 법을 정리했습니다.",
-              "date": "2026-07-08",
-              "url": "posts/dog-cat-dental-care-guide.html"
-      },
-      {
-              "title": "여름철 강아지·고양이 열사병 예방과 쿨링 용품 가이드",
-              "category": "여름 케어",
-              "summary": "한여름 산책과 실내 생활에서 반려동물의 열사병을 예방하는 방법과, 쿨매트·쿨조끼 등 쿨링 용품 고르는 기준을 정리했습니다.",
-              "date": "2026-07-08",
-              "url": "posts/dog-cat-summer-heatstroke-cooling-guide.html"
-      },
-      {
-              "title": "강아지 알러지케어 사료 고르는 법 (성분표 보는 법 포함)",
-              "category": "사료 가이드",
-              "summary": "가려움증과 소화 트러블이 잦은 강아지를 위한 저알러지 사료 선택 기준과 성분표 읽는 법, 추천 제품을 정리했습니다.",
-              "date": "2026-07-07",
-              "url": "posts/dog-allergy-food-guide.html"
-      },
-      {
-              "title": "고양이 스크래처 종류별 비교 (골판지 vs 마대 vs 카펫)",
-              "category": "고양이 용품",
-              "summary": "가구 손상 없이 스트레스를 풀어주는 고양이 스크래처, 소재별 장단점과 우리 집 고양이 취향 찾는 법을 정리했습니다.",
-              "date": "2026-07-06",
-              "url": "posts/cat-scratcher-guide.html"
-      },
-      {
-              "title": "강아지 하네스 & 리드줄 제대로 고르는 법",
-              "category": "산책 용품",
-              "summary": "목 통증 없이 안전하게 산책할 수 있는 하네스 타입별 특징과 견종별 사이즈 선택법을 안내합니다.",
-              "date": "2026-07-05",
-              "url": "posts/dog-harness-leash-guide.html"
-      },
-      {
-              "title": "고양이 자동급식기 비교 가이드 (소음, 용량, 앱 연동)",
-              "category": "스마트 펫템",
-              "summary": "바쁜 반려인을 위한 스마트 자동급식기, 소음과 용량, 앱 연동 기능까지 실사용 기준으로 비교했습니다.",
-              "date": "2026-07-04",
-              "url": "posts/cat-auto-feeder-guide.html"
-      },
-      {
-              "title": "강아지 노즈워크 장난감 활용법과 추천템",
-              "category": "행동 케어",
-              "summary": "분리불안과 무기력증 완화에 효과적인 노즈워크 장난감, 난이도별 활용법과 추천 제품을 소개합니다.",
-              "date": "2026-07-03",
-              "url": "posts/dog-nosework-toy-guide.html"
-      },
-      {
-              "title": "반려동물 이동장(켄넬) 선택 가이드 (병원·여행·항공 이동)",
-              "category": "외출 용품",
-              "summary": "병원 방문부터 항공 이동까지 고려한 이동장 선택 기준과 소재, 사이즈별 추천 제품을 정리했습니다.",
-              "date": "2026-07-02",
-              "url": "posts/pet-carrier-guide.html"
-      },
-      {
-              "title": "고양이 화장실 모래 종류별 비교 (냄새·먼지·응고력)",
-              "category": "위생 용품",
-              "summary": "냄새와 먼지 걱정을 줄여주는 모래 종류별 특징, 자동 화장실과의 궁합까지 집사 관점에서 비교했습니다.",
-              "date": "2026-07-01",
-              "url": "posts/cat-litter-sand-guide.html"
-      },
-      {
-              "title": "반려동물 영양제 연령별 급여 가이드 (관절·피모·장건강)",
-              "category": "건강 관리",
-              "summary": "관절, 피모, 장 건강까지 연령대별로 챙기면 좋은 영양제 종류와 급여 시 주의사항을 안내합니다.",
-              "date": "2026-06-30",
-              "url": "posts/pet-supplement-guide.html"
-      }
+  {
+    "title": "노령견·노령묘 케어 가이드 (7세 이후 챙겨야 할 건강 관리)",
+    "category": "노령 케어",
+    "summary": "7세 이후 노령기에 접어든 반려동물을 위한 생활 환경 개선, 건강검진 주기, 관절·인지기능 관리 팁을 정리했습니다.",
+    "date": "2026-07-13",
+    "url": "posts/senior-pet-care-guide.html"
+  },
+  {
+    "title": "반려동물 보험 가입 전 꼭 알아야 할 것들 (보장범위·면책기간·자기부담금)",
+    "category": "반려동물 보험",
+    "summary": "반려동물 보험 가입 전 확인해야 할 보장범위, 면책기간, 자기부담금, 갱신형 여부까지 헷갈리는 개념을 정리했습니다.",
+    "date": "2026-07-12",
+    "url": "posts/pet-insurance-guide.html"
+  },
+  {
+    "title": "강아지 배변훈련 완벽 가이드 (패드 vs 배변판 vs 야외배변)",
+    "category": "배변 훈련",
+    "summary": "새 강아지를 입양했다면 가장 먼저 필요한 배변훈련. 패드 훈련부터 야외배변까지 단계별 방법과 실수했을 때 대처법을 정리했습니다.",
+    "date": "2026-07-11",
+    "url": "posts/dog-potty-training-guide.html"
+  },
+  {
+    "title": "강아지 알러지케어 사료 고르는 법 (성분표 보는 법 포함)",
+    "category": "사료 가이드",
+    "summary": "가려움증과 소화 트러블이 잦은 강아지를 위한 저알러지 사료 선택 기준과 성분표 읽는 법, 추천 제품을 정리했습니다.",
+    "date": "2026-07-07",
+    "url": "posts/dog-allergy-food-guide.html"
+  },
+  {
+    "title": "고양이 스크래처 종류별 비교 (골판지 vs 마대 vs 카펫)",
+    "category": "고양이 용품",
+    "summary": "가구 손상 없이 스트레스를 풀어주는 고양이 스크래처, 소재별 장단점과 우리 집 고양이 취향 찾는 법을 정리했습니다.",
+    "date": "2026-07-06",
+    "url": "posts/cat-scratcher-guide.html"
+  },
+  {
+    "title": "강아지 하네스 & 리드줄 제대로 고르는 법",
+    "category": "산책 용품",
+    "summary": "목 통증 없이 안전하게 산책할 수 있는 하네스 타입별 특징과 견종별 사이즈 선택법을 안내합니다.",
+    "date": "2026-07-05",
+    "url": "posts/dog-harness-leash-guide.html"
+  },
+  {
+    "title": "고양이 자동급식기 비교 가이드 (소음, 용량, 앱 연동)",
+    "category": "스마트 펫템",
+    "summary": "바쁜 반려인을 위한 스마트 자동급식기, 소음과 용량, 앱 연동 기능까지 실사용 기준으로 비교했습니다.",
+    "date": "2026-07-04",
+    "url": "posts/cat-auto-feeder-guide.html"
+  },
+  {
+    "title": "강아지 노즈워크 장난감 활용법과 추천템",
+    "category": "행동 케어",
+    "summary": "분리불안과 무기력증 완화에 효과적인 노즈워크 장난감, 난이도별 활용법과 추천 제품을 소개합니다.",
+    "date": "2026-07-03",
+    "url": "posts/dog-nosework-toy-guide.html"
+  },
+  {
+    "title": "반려동물 이동장(켄넬) 선택 가이드 (병원·여행·항공 이동)",
+    "category": "외출 용품",
+    "summary": "병원 방문부터 항공 이동까지 고려한 이동장 선택 기준과 소재, 사이즈별 추천 제품을 정리했습니다.",
+    "date": "2026-07-02",
+    "url": "posts/pet-carrier-guide.html"
+  },
+  {
+    "title": "고양이 화장실 모래 종류별 비교 (냄새·먼지·응고력)",
+    "category": "위생 용품",
+    "summary": "냄새와 먼지 걱정을 줄여주는 모래 종류별 특징, 자동 화장실과의 궁합까지 집사 관점에서 비교했습니다.",
+    "date": "2026-07-01",
+    "url": "posts/cat-litter-sand-guide.html"
+  },
+  {
+    "title": "반려동물 영양제 연령별 급여 가이드 (관절·피모·장건강)",
+    "category": "건강 관리",
+    "summary": "관절, 피모, 장 건강까지 연령대별로 챙기면 좋은 영양제 종류와 급여 시 주의사항을 안내합니다.",
+    "date": "2026-06-30",
+    "url": "posts/pet-supplement-guide.html"
+  }
 ]
