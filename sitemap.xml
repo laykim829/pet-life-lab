@@ -1,135 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>daily</changefreq>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/about.html</loc>
-<lastmod>2026-07-14</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/privacy.html</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.3</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-food-amount-calculator.html</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/cat-age-calculator.html</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/pet-ideal-weight-calculator.html</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-walk-time-calculator.html</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/senior-pet-care-guide.html</loc>
-<lastmod>2026-07-13</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/pet-insurance-guide.html</loc>
-<lastmod>2026-07-12</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-potty-training-guide.html</loc>
-<lastmod>2026-07-11</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-dental-care-guide.html</loc>
-<lastmod>2026-07-08</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-summer-heatstroke-cooling-guide.html</loc>
-<lastmod>2026-07-08</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-allergy-food-guide.html</loc>
-<lastmod>2026-07-07</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/cat-scratcher-guide.html</loc>
-<lastmod>2026-07-06</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-harness-leash-guide.html</loc>
-<lastmod>2026-07-05</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/cat-auto-feeder-guide.html</loc>
-<lastmod>2026-07-04</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-nosework-toy-guide.html</loc>
-<lastmod>2026-07-03</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/pet-carrier-guide.html</loc>
-<lastmod>2026-07-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/cat-litter-sand-guide.html</loc>
-<lastmod>2026-07-01</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/pet-supplement-guide.html</loc>
-<lastmod>2026-06-30</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/dog-dental-care-guide.html</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://laykim829.github.io/pet-life-lab/posts/pet-grooming-brush-hairball-guide.html</loc>
-<lastmod>2026-07-21</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/about.html</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/privacy.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-food-amount-calculator.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/cat-age-calculator.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/pet-ideal-weight-calculator.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-walk-time-calculator.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/senior-pet-care-guide.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/pet-insurance-guide.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-potty-training-guide.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-dental-care-guide.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-summer-heatstroke-cooling-guide.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-allergy-food-guide.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/cat-scratcher-guide.html</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-harness-leash-guide.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/cat-auto-feeder-guide.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-nosework-toy-guide.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/pet-carrier-guide.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/cat-litter-sand-guide.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/pet-supplement-guide.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-dental-care-guide.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/pet-grooming-brush-hairball-guide.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/pet-life-lab/posts/dog-cat-winter-paw-nail-care-guide.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
